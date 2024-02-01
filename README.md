@@ -4,7 +4,7 @@
 
 ## **Projeto** - **Detecção de Fraudes em Cartões de Crédito** 
 
-[PROJETO (COLAB)]()
+[PROJETO (COLAB)](https://github.com/SarahFeanor/Credit_Card_Fraud_Detection_Project/blob/main/Detec%C3%A7%C3%A3o_de_fraude.ipynb)
 
 Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
 
