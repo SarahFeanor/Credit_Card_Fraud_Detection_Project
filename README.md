@@ -26,7 +26,7 @@ A tarefa de detectar fraudes em transações de cartões de crédito é intrinca
 
 O propósito deste projeto é conduzir uma análise exploratória dos dados referentes a transações de cartões de crédito, bem como desenvolver modelos de machine learning que tenham a capacidade de identificar transações fraudulentas com elevada precisão. Para alcançar esse objetivo, serão empregadas técnicas avançadas de análise de dados e machine learning, com a finalidade de identificar padrões e anomalias nos dados. Adicionalmente, serão aplicadas abordagens de balanceamento de dados. Uma parte crucial do processo consistirá em avaliar a eficácia dos modelos construídos, tanto em termos de sua precisão na detecção de fraudes quanto em relação à minimização de falsos positivos.
 
-## **Dados**
+## 📂 **Dados**
 
 Os dados utilizados neste projeto provêm de diversas empresas de cartões de crédito na Europa. O conjunto de dados abrange transações financeiras que ocorreram durante um intervalo de dois dias, incluindo 492 casos de fraudes em meio a quase 290 mil transações. É importante observar que o conjunto de dados é altamente desbalanceado, com as fraudes representando somente 0,17% do total.
 
@@ -34,7 +34,7 @@ Outro ponto a se destacar é que as características do conjunto de dados são t
 
 "https://www.dropbox.com/s/b44o3t3ehmnx2b7/creditcard.csv?dl=1"
 
-Conclusão
+## **Conclusão**
 Com base nas análises meticulosas realizadas, fica evidente que a seleção criteriosa do modelo de classificação e a escolha sensata da técnica de balanceamento de classes desempenham um papel fundamental no sucesso da detecção de fraudes em transações financeiras. Ao considerar dois tipos de técnicas de balanceamento de classes (under-sampling e over-sampling) em conjunto com dois modelos de classificação (Decision Tree e Logistic Regression), podemos tirar valiosas lições.
 
 A Regressão Logística emergiu como uma opção de destaque para resolver esse desafio, apresentando um desempenho superior em relação à Decision Tree. Especificamente, os modelos baseados em Regressão Logística alcançaram valores de AUC próximos a 0,93, destacando a capacidade de distinguir entre transações legítimas e fraudulentas de maneira eficaz.
